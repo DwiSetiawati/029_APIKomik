@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="POST LOGIN" src="https://github.com/user-attachments/assets/5c915702-cd73-4225-a8e2-40c9816d93a5" />POST REGISTER
+POST REGISTER
 <img width="1920" height="1080" alt="POST Register" src="https://github.com/user-attachments/assets/66b8cf43-bf5c-4c82-8506-93b8ea4e189f" />
 
 POST LOGIN
